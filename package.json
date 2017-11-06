@@ -1,0 +1,15 @@
+{
+  "name": "promise-train",
+  "version": "0.1.0",
+  "description": "Create method chains with async functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "chain"
+  ],
+  "author": "Tuur Dutoit <me@tuurdutoit.be>",
+  "license": "MIT"
+}
