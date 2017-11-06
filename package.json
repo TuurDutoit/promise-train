@@ -6,8 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TuurDutoit/promise-train.git"
+  },
   "keywords": [
     "async",
+    "promise",
     "chain"
   ],
   "author": "Tuur Dutoit <me@tuurdutoit.be>",
